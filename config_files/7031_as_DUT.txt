@@ -1,0 +1,257 @@
+"_csi_tadp_tx_0_meron_src_csi_swreset_n_reg" , 0xf7
+"_csi_tadp_tx_0_cfg_fusa_apb_split_dis_reg" , 0x45000001
+"_csi_tadp_tx_0_cfg_cdphy_rx_reg" , 0x7e
+"_csi_tadp_tx_0_cfg_csi_eph0" , 0x5001
+"_csi_tadp_tx_0_cfg_hostctrl_reg" , 0x2
+"_csi_tadp_tx_0_CSI2_RESETN_reg" , 0x1
+"_csi_tadp_tx_0_PHY_CFG_reg" , 0x0
+"_csi_tadp_tx_0_N_LANES_reg" , 0x3
+"_csi_tadp_tx_0_meron_src_csi_swreset_n_reg" , 0xff
+"_csi_tadp_tx_0_CORE_DIG_ANACTRL_RW_COMMON_ANACTRL_0_reg",               "csi_tadp_tx_0_CB_LP_DCO_EN_DLY" , 63
+"_csi_tadp_tx_0_PPI_STARTUP_RW_COMMON_STARTUP_1_1_reg",               "csi_tadp_tx_0_PHY_READY_DLY" , 0x233                       
+"_csi_tadp_tx_0_PPI_STARTUP_RW_COMMON_DPHY_6_reg",               "csi_tadp_tx_0_LP_DCO_CAL_addr" , 0x27                       
+"_csi_tadp_tx_0_PPI_CALIBCTRL_RW_COMMON_BG_0_reg",               "csi_tadp_tx_0_BG_MAX_COUNTER" , 0x1f4                       
+"_csi_tadp_tx_0_PPI_RW_TERMCAL_CFG_0_reg",               "csi_tadp_tx_0_TERMCAL_TIMER" , 0x13                       
+"_csi_tadp_tx_0_PPI_RW_OFFSETCAL_CFG_0_reg",               "csi_tadp_tx_0_OFFSETCAL_WAIT_THRESH" , 0x3                       
+"_csi_tadp_tx_0_PPI_RW_LPDCOCAL_TIMEBASE_reg",               "csi_tadp_tx_0_LPCDCOCAL_TIMEBASE" , 0x4f                       
+"_csi_tadp_tx_0_PPI_RW_LPDCOCAL_NREF_reg",               "csi_tadp_tx_0_LPCDCOCAL_NREF" , 0x320                       
+"_csi_tadp_tx_0_PPI_RW_LPDCOCAL_NREF_RANGE_reg",               "csi_tadp_tx_0_LPCDCOCAL_NREF_RANGE" , 0xf                       
+"_csi_tadp_tx_0_PPI_RW_LPDCOCAL_TWAIT_CONFIG_reg",               "csi_tadp_tx_0_LPCDCOCAL_TWAIT_PON" , 127                       
+"_csi_tadp_tx_0_PPI_RW_LPDCOCAL_TWAIT_CONFIG_reg",               "csi_tadp_tx_0_LPCDCOCAL_TWAIT_COARSE" , 24                         
+"_csi_tadp_tx_0_PPI_RW_LPDCOCAL_VT_CONFIG_reg",               "csi_tadp_tx_0_LPCDCOCAL_TWAIT_FINE" , 24                       
+"_csi_tadp_tx_0_PPI_RW_LPDCOCAL_VT_CONFIG_reg",               "csi_tadp_tx_0_LPCDCOCAL_VT_NREF_RANGE" , 15                       
+"_csi_tadp_tx_0_PPI_RW_LPDCOCAL_VT_CONFIG_reg",               "csi_tadp_tx_0_LPCDCOCAL_USE_IDEAL_NREF" , 0                       
+"_csi_tadp_tx_0_PPI_RW_LPDCOCAL_VT_CONFIG_reg",               "csi_tadp_tx_0_LPCDCOCAL_VT_TRACKING_EN" , 0                       
+"_csi_tadp_tx_0_PPI_RW_LPDCOCAL_COARSE_CFG_reg",               "csi_tadp_tx_0_NCOARSE_START" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_CB_CTRL_2_6_reg",			   "csi_tadp_tx_0_OA_CB_HSTXLB_DCO_PON_OVR_EN" , 0
+"_csi_tadp_tx_0_PPI_RW_COMMON_CFG_reg",               "csi_tadp_tx_0_CFG_CLK_DIV_FACTOR" , 0x3     
+"_csi_tadp_tx_0_CORE_DIG_RW_COMMON_7_reg" , 0x0
+"_csi_tadp_tx_0_PPI_STARTUP_RW_COMMON_DPHY_8_reg",               "csi_tadp_tx_0_CPHY_DDL_CAL_addr" , 0x50                       
+"_csi_tadp_tx_0_PPI_RW_DDLCAL_CFG_7_reg",               "csi_tadp_tx_0_DDLCAL_DECR_WAIT" , 34                        
+"_csi_tadp_tx_0_PPI_RW_DDLCAL_CFG_1_reg",               "csi_tadp_tx_0_DDLCAL_DISABLE_TIME" ,19                         
+"_csi_tadp_tx_0_PPI_RW_DDLCAL_CFG_2_reg",               "csi_tadp_tx_0_DDLCAL_WAIT" , 4                        
+"_csi_tadp_tx_0_PPI_RW_DDLCAL_CFG_2_reg",               "csi_tadp_tx_0_DDLCAL_TUNE_MODE" , 2                        
+"_csi_tadp_tx_0_PPI_RW_DDLCAL_CFG_2_reg",               "csi_tadp_tx_0_DDLCAL_DDL_DLL" , 1                        
+"_csi_tadp_tx_0_PPI_RW_DDLCAL_CFG_2_reg",               "csi_tadp_tx_0_DDLCAL_ENABLE_WAIT" , 19                        
+"_csi_tadp_tx_0_PPI_RW_DDLCAL_CFG_2_reg",               "csi_tadp_tx_0_DDLCAL_UPDATE_SETTINGS" , 1                        
+"_csi_tadp_tx_0_PPI_RW_DDLCAL_CFG_4_reg",               "csi_tadp_tx_0_DDLCAL_STUCK_THRESH" , 0xa                       
+"_csi_tadp_tx_0_PPI_RW_DDLCAL_CFG_6_reg",               "csi_tadp_tx_0_DDLCAL_MAX_DIFF" , 10                       
+"_csi_tadp_tx_0_PPI_RW_DDLCAL_CFG_7_reg",               "csi_tadp_tx_0_DDLCAL_START_DELAY" , 9                        
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_LP_0_reg",               "csi_tadp_tx_0_LP_0_TTAGO_REG" , 7                      
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE0_CTRL_2_2_reg",               "csi_tadp_tx_0_OA_LANE0_SEL_LANE_CFG" , 0x0                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE1_CTRL_2_2_reg",               "csi_tadp_tx_0_OA_LANE1_SEL_LANE_CFG" , 0x0                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE2_CTRL_2_2_reg",               "csi_tadp_tx_0_OA_LANE2_SEL_LANE_CFG" , 0x1                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE3_CTRL_2_2_reg",               "csi_tadp_tx_0_OA_LANE3_SEL_LANE_CFG" , 0x0                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE4_CTRL_2_2_reg",               "csi_tadp_tx_0_OA_LANE4_SEL_LANE_CFG" , 0x0                       
+"_csi_tadp_tx_0_CORE_DIG_RW_COMMON_6_reg",               "csi_tadp_tx_0_DESERIALIZER_EN_DEASS_COUNT_THRESH_D" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_RW_COMMON_6_reg",               "csi_tadp_tx_0_DESERIALIZER_DIV_EN_DELAY_THRESH_D" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_HS_RX_7_reg",               "csi_tadp_tx_0_HS_RX_7_TCLKMISS_REG" , 6                         
+"_csi_tadp_tx_0_CORE_DIG_DLANE_0_RW_HS_RX_2_reg",               "csi_tadp_tx_0_HS_RX_2_UPDATE_SETTINGS_DESKEW_REG" , 1                         
+"_csi_tadp_tx_0_CORE_DIG_DLANE_1_RW_HS_RX_2_reg",               "csi_tadp_tx_0_HS_RX_2_UPDATE_SETTINGS_DESKEW_REG" , 1                         
+"_csi_tadp_tx_0_CORE_DIG_DLANE_2_RW_HS_RX_2_reg",               "csi_tadp_tx_0_HS_RX_2_UPDATE_SETTINGS_DESKEW_REG" , 1                         
+"_csi_tadp_tx_0_CORE_DIG_DLANE_3_RW_HS_RX_2_reg",               "csi_tadp_tx_0_HS_RX_2_UPDATE_SETTINGS_DESKEW_REG" , 1                         
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_HS_RX_2_reg",               "csi_tadp_tx_0_HS_RX_2_UPDATE_SETTINGS_DESKEW_REG" , 1                       		
+"_csi_tadp_tx_0_CORE_DIG_DLANE_0_RW_HS_RX_2_reg",               "csi_tadp_tx_0_HS_RX_2_WINDOW_SIZE_DESKEW_REG" , 3                         
+"_csi_tadp_tx_0_CORE_DIG_DLANE_1_RW_HS_RX_2_reg",               "csi_tadp_tx_0_HS_RX_2_WINDOW_SIZE_DESKEW_REG" , 3                         
+"_csi_tadp_tx_0_CORE_DIG_DLANE_2_RW_HS_RX_2_reg",               "csi_tadp_tx_0_HS_RX_2_WINDOW_SIZE_DESKEW_REG" , 3                         
+"_csi_tadp_tx_0_CORE_DIG_DLANE_3_RW_HS_RX_2_reg",               "csi_tadp_tx_0_HS_RX_2_WINDOW_SIZE_DESKEW_REG" , 3                         
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_HS_RX_2_reg",               "csi_tadp_tx_0_HS_RX_2_WINDOW_SIZE_DESKEW_REG" , 3                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_0_RW_HS_RX_1_reg",               "csi_tadp_tx_0_HS_RX_1_FILTER_SIZE_DESKEW_REG" , 16                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_1_RW_HS_RX_1_reg",               "csi_tadp_tx_0_HS_RX_1_FILTER_SIZE_DESKEW_REG" , 16                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_2_RW_HS_RX_1_reg",               "csi_tadp_tx_0_HS_RX_1_FILTER_SIZE_DESKEW_REG" , 16                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_3_RW_HS_RX_1_reg",               "csi_tadp_tx_0_HS_RX_1_FILTER_SIZE_DESKEW_REG" , 16                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_HS_RX_1_reg",               "csi_tadp_tx_0_HS_RX_1_FILTER_SIZE_DESKEW_REG" , 16                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_0_RW_HS_RX_3_reg",               "csi_tadp_tx_0_HS_RX_3_STEP_SIZE_DESKEW_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_1_RW_HS_RX_3_reg",               "csi_tadp_tx_0_HS_RX_3_STEP_SIZE_DESKEW_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_2_RW_HS_RX_3_reg",               "csi_tadp_tx_0_HS_RX_3_STEP_SIZE_DESKEW_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_3_RW_HS_RX_3_reg",               "csi_tadp_tx_0_HS_RX_3_STEP_SIZE_DESKEW_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_HS_RX_3_reg",               "csi_tadp_tx_0_HS_RX_3_STEP_SIZE_DESKEW_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_0_RW_HS_RX_4_reg",               "csi_tadp_tx_0_HS_RX_4_MAX_ITERATIONS_DESKEW_REG" , 0x96                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_1_RW_HS_RX_4_reg",               "csi_tadp_tx_0_HS_RX_4_MAX_ITERATIONS_DESKEW_REG" , 0x96                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_2_RW_HS_RX_4_reg",               "csi_tadp_tx_0_HS_RX_4_MAX_ITERATIONS_DESKEW_REG" , 0x96                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_3_RW_HS_RX_4_reg",               "csi_tadp_tx_0_HS_RX_4_MAX_ITERATIONS_DESKEW_REG" , 0x96                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_HS_RX_4_reg",               "csi_tadp_tx_0_HS_RX_4_MAX_ITERATIONS_DESKEW_REG" , 0x96                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_0_RW_HS_RX_5_reg",               "csi_tadp_tx_0_HS_RX_5_DDL_LEFT_INIT_REG" , 0                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_1_RW_HS_RX_5_reg",               "csi_tadp_tx_0_HS_RX_5_DDL_LEFT_INIT_REG" , 0                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_2_RW_HS_RX_5_reg",               "csi_tadp_tx_0_HS_RX_5_DDL_LEFT_INIT_REG" , 0                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_3_RW_HS_RX_5_reg",               "csi_tadp_tx_0_HS_RX_5_DDL_LEFT_INIT_REG" , 0                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_HS_RX_5_reg",               "csi_tadp_tx_0_HS_RX_5_DDL_LEFT_INIT_REG" , 0                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_0_RW_HS_RX_5_reg",               "csi_tadp_tx_0_HS_RX_5_DDL_MID_INIT_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_1_RW_HS_RX_5_reg",               "csi_tadp_tx_0_HS_RX_5_DDL_MID_INIT_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_2_RW_HS_RX_5_reg",               "csi_tadp_tx_0_HS_RX_5_DDL_MID_INIT_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_3_RW_HS_RX_5_reg",               "csi_tadp_tx_0_HS_RX_5_DDL_MID_INIT_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_HS_RX_5_reg",               "csi_tadp_tx_0_HS_RX_5_DDL_MID_INIT_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_0_RW_HS_RX_6_reg",               "csi_tadp_tx_0_HS_RX_6_DDL_RIGHT_INIT_REG" , 2                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_1_RW_HS_RX_6_reg",               "csi_tadp_tx_0_HS_RX_6_DDL_RIGHT_INIT_REG" , 2                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_2_RW_HS_RX_6_reg",               "csi_tadp_tx_0_HS_RX_6_DDL_RIGHT_INIT_REG" , 2                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_3_RW_HS_RX_6_reg",               "csi_tadp_tx_0_HS_RX_6_DDL_RIGHT_INIT_REG" , 2                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_HS_RX_6_reg",               "csi_tadp_tx_0_HS_RX_6_DDL_RIGHT_INIT_REG" , 2                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_0_RW_HS_RX_7_reg",               "csi_tadp_tx_0_HS_RX_7_DESKEW_AUTO_ALGO_SEL_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_1_RW_HS_RX_7_reg",               "csi_tadp_tx_0_HS_RX_7_DESKEW_AUTO_ALGO_SEL_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_2_RW_HS_RX_7_reg",               "csi_tadp_tx_0_HS_RX_7_DESKEW_AUTO_ALGO_SEL_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_3_RW_HS_RX_7_reg",               "csi_tadp_tx_0_HS_RX_7_DESKEW_AUTO_ALGO_SEL_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_HS_RX_7_reg",               "csi_tadp_tx_0_HS_RX_7_DESKEW_AUTO_ALGO_SEL_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x404                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x40c                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x414                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x41c                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x423                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x429                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x430                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x43a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x445                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x44a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x450                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x45a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x465                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x469                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x472                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x47a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x485                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x489                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x490                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x49a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4a4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4ac                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4b4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4bc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4c4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4cc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4d4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4dc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4e4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4ec                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4f4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x4fc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x504                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x50c                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x514                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x51c                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x523                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x529                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x530                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x53a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x545                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x54a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x550                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x55a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x565                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x569                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x572                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x57a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x585                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x589                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x590                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x59a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5a4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5ac                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5b4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5bc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5c4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5cc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5d4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5dc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5e4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5ec                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5f4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x5fc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x604                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x60c                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x614                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x61c                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x623                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x629                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x632                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x63a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x645                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x64a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x650                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x65a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x665                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x669                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x672                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x67a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x685                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x689                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x690                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x69a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6a4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6ac                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6b4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6bc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6c4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6cc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6d4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6dc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6e4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6ec                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6f4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x6fc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x704                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x70c                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x714                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x71c                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x723                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x72a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x730                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x73a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x745                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x74a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x750                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x75a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x765                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x769                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x772                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x77a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x785                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x789                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x790                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x79a                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7a4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7ac                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7b4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7bc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7c4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7cc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7d4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7dc                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7e4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7ec                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7f4                         
+"_csi_tadp_tx_0_CORE_DIG_COMMON_RW_DESKEW_FINE_MEM_reg" , 0x7fc                       
+"_csi_tadp_tx_0_PPI_STARTUP_RW_COMMON_DPHY_10_reg",               "csi_tadp_tx_0_PHY_READY_addr" , 48                       
+"_csi_tadp_tx_0_CORE_DIG_ANACTRL_RW_COMMON_ANACTRL_2_reg",               "csi_tadp_tx_0_GLOBAL_ULPS_OVR_EN" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_0_RW_LP_0_reg",               "csi_tadp_tx_0_LP_0_ITMINRX_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_1_RW_LP_0_reg",               "csi_tadp_tx_0_LP_0_ITMINRX_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_2_RW_LP_0_reg",               "csi_tadp_tx_0_LP_0_ITMINRX_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_3_RW_LP_0_reg",               "csi_tadp_tx_0_LP_0_ITMINRX_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_DLANE_CLK_RW_LP_0_reg",               "csi_tadp_tx_0_LP_0_ITMINRX_REG" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE0_CTRL_2_9_reg",               "csi_tadp_tx_0_OA_LANE0_HSRX_EQUALIZER" , 4                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE1_CTRL_2_9_reg",               "csi_tadp_tx_0_OA_LANE1_HSRX_EQUALIZER" , 4                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE2_CTRL_2_9_reg",               "csi_tadp_tx_0_OA_LANE2_HSRX_EQUALIZER" , 4                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE3_CTRL_2_9_reg",               "csi_tadp_tx_0_OA_LANE3_HSRX_EQUALIZER" , 4                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE4_CTRL_2_9_reg",               "csi_tadp_tx_0_OA_LANE4_HSRX_EQUALIZER" , 4                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE0_CTRL_2_13_reg",               "csi_tadp_tx_0_OA_LANE0_HSRX_DPHY_DLL_EN_OVR_EN" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE1_CTRL_2_13_reg",               "csi_tadp_tx_0_OA_LANE1_HSRX_DPHY_DLL_EN_OVR_EN" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE2_CTRL_2_13_reg",               "csi_tadp_tx_0_OA_LANE2_HSRX_DPHY_DLL_EN_OVR_EN" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE3_CTRL_2_13_reg",               "csi_tadp_tx_0_OA_LANE3_HSRX_DPHY_DLL_EN_OVR_EN" , 1                       
+"_csi_tadp_tx_0_CORE_DIG_IOCTRL_RW_AFE_LANE4_CTRL_2_13_reg",               "csi_tadp_tx_0_OA_LANE4_HSRX_DPHY_DLL_EN_OVR_EN" , 1                                      
+"_csi_tadp_tx_0_INT_MSK_PHY_FATAL_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_PKT_FATAL_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_PHY_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_LINE_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_AP_GENERIC_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_LOGGER_ERR_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_CRC_FRAME_FATAL_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_PLD_CRC_FATAL_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_ECC_CORRECTED_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_FAP_PHY_FATAL_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_FAP_PKT_FATAL_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_FAP_PHY_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_FAP_LINE_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_FAP_CRC_FRAME_FATAL_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_FAP_PLD_CRC_FATAL_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_INT_MSK_FAP_ECC_CORRECTED_reg" , 0xffffffff                         
+"_csi_tadp_tx_0_cfg_apktgen_en" , 0x1                       
+"_csi_tadp_tx_0_cfg_gnr_smif_wait_reg" , 0xb500001f                       
+"_csi_tadp_tx_0_cfg_cdphy_rx_reg" , 0x2                     

@@ -1,0 +1,118 @@
+"_top_blocks_reset_n_reg" , 0x3fff
+"_one_ch0_reset_n_reg" , 0xf
+"_one_ch1_reset_n_reg" , 0xf
+"_one_ch2_reset_n_reg" , 0xf
+"_one_ch3_reset_n_reg" , 0xf
+"_TSWSOC_Block_Reset_1" , 0xffffffff
+"_TSWSOC_Block_Reset_2" , 0xffffffff
+"_TSWSOC_Block_Reset_3" , 0xffffffff
+"_MeronSnk_AFE_IF_blocks_reset_n_reg" , 0xffffffff
+"_general_config_reg" , 0x331933
+"_TSWSOC_Config" , 0x1
+"_i2c_host_sel_1ch_1_reg" , 0x0
+"_Cml_clk_buffers_config_1_reg" , 0x201
+"_Cml_clk_buffers_config_0_reg" , 0x200
+"_TSWSOC_Block_Reset_1" , 0x100ffff
+"_TSWSOC_Block_Reset_2" , 0xffff
+"_TSWSOC_Block_Reset_3" , 0xffff
+"_i2c1_i2c_slave_int_mask_reg" , 0x0
+"_Cml_clk_buffers_config_1_reg" , 0x241
+"_Cml_clk_buffers_config_2_reg" , 0x76
+"_cfg_soft_top_reset_reg" , 0x3
+"_A_cfg_soft_reset_reg" , 0x3ffff3
+"_A_cfg_fusa_enable" , 0x5500ffff
+"_A_cfg_top_configuration" , 0x1000fe7f
+"_A_cfg_smif_wait_reg" , 0xb500001f
+"_top_software_reg_15" , 0x900d
+"_A_cfg_apkt_configuration" , 0xb500001f 
+"_A_cfg_all0_cfg_all0_phy_regs2" , 0x440000
+"_A_cfg_all0_cfg_all0_phy_frac2_reg" , 0x10000
+"_A_C0_COMBO_PHY_MODE_reg" , 0x0
+"_A_C0_PHY_IF_CFG_reg",       "A_C0_lane_en_num" , 0x03
+"_A_cfg_all0_cfg_all0_start_frame" , 0x0
+"_A_C0_PHY_RSTZ_reg" , 0x14
+"_A_C0_CSI2_RESETN_reg" , 0x1   
+"_A_C0_INT_MASK_N_VPG_reg" , 0xffffffff   
+"_A_C0_INT_MASK_N_IDI_reg" , 0x201
+"_A_C0_INT_MASK_N_PHY_reg" , 0xffffffff   
+"_A_C0_INT_MASK_N_FAP_VPG_reg" , 0xffffffff   
+"_A_C0_INT_MASK_N_FAP_IDI_reg" , 0x201
+"_A_C0_INT_MASK_N_FAP_PHY_reg" , 0xffffffff   
+"_A_C0_INT_MASK_N_DIAG0_reg" , 0xffffffff   
+"_A_C0_MASK_N_IDI_FIFOCTRL_AP_STATUS_reg" , 0x1f1   
+"_A_cfg_soft_reset_reg",       "A_cfg_soft_phy0_reset_n" , 0x1
+"_A_P0_CORE_DIG_ANACTRL_RW_COMMON_ANACTRL_0_reg",       "A_P0_CB_LP_DCO_EN_DLY" , 63	
+"_A_P0_PPI_STARTUP_RW_COMMON_STARTUP_1_1_reg",       "A_P0_PHY_READY_DLY" , 563
+"_A_P0_PPI_STARTUP_RW_COMMON_DPHY_2_reg",       "A_P0_RCAL_addr" , 0x3
+"_A_P0_PPI_STARTUP_RW_COMMON_DPHY_3_reg",       "A_P0_PLL_START_addr" , 0x26
+"_A_P0_PPI_STARTUP_RW_COMMON_DPHY_6_reg",       "A_P0_LP_DCO_CAL_addr" , 0x10
+"_A_P0_PPI_STARTUP_RW_COMMON_DPHY_A_reg",       "A_P0_HIBERNATE_addr" , 0x21
+"_A_P0_CORE_DIG_ANACTRL_RW_COMMON_ANACTRL_2_reg",       "A_P0_GLOBAL_ULPS_OVR_EN" , 0x1
+"_A_P0_PPI_CALIBCTRL_RW_COMMON_BG_0_reg",       "A_P0_BG_MAX_COUNTER" , 500
+"_A_P0_PPI_RW_TERMCAL_CFG_0_reg",       "A_P0_TERMCAL_TIMER" , 0x13
+"_A_P0_PPI_RW_LPDCOCAL_TIMEBASE_reg",       "A_P0_LPCDCOCAL_TIMEBASE" , 0x4f
+"_A_P0_PPI_RW_LPDCOCAL_NREF_reg",       "A_P0_LPCDCOCAL_NREF" , 0x320	
+"_A_P0_PPI_RW_LPDCOCAL_NREF_RANGE_reg",       "A_P0_LPCDCOCAL_NREF_RANGE" , 0xf
+"_A_P0_PPI_RW_LPDCOCAL_TWAIT_CONFIG_reg",       "A_P0_LPCDCOCAL_TWAIT_PON" , 127
+"_A_P0_PPI_RW_LPDCOCAL_TWAIT_CONFIG_reg",       "A_P0_LPCDCOCAL_TWAIT_COARSE" , 24
+"_A_P0_PPI_RW_LPDCOCAL_VT_CONFIG_reg",       "A_P0_LPCDCOCAL_TWAIT_FINE" , 24
+"_A_P0_PPI_RW_LPDCOCAL_VT_CONFIG_reg",       "A_P0_LPCDCOCAL_VT_NREF_RANGE" , 5
+"_A_P0_PPI_RW_LPDCOCAL_VT_CONFIG_reg",       "A_P0_LPCDCOCAL_USE_IDEAL_NREF" , 1
+"_A_P0_PPI_RW_LPDCOCAL_VT_CONFIG_reg",       "A_P0_LPCDCOCAL_VT_TRACKING_EN" , 1
+"_A_P0_PPI_RW_LPDCOCAL_COARSE_CFG_reg",       "A_P0_NCOARSE_START" , 2
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_CB_CTRL_2_2_reg",       "A_P0_OA_CB_PLL_BUSTIEZ" , 1
+"_A_P0_PPI_RW_PLL_STARTUP_CFG_0_reg",       "A_P0_PLL_RST_TIME" , 0xc7
+"_A_P0_PPI_RW_PLL_STARTUP_CFG_1_reg",       "A_P0_PLL_GEAR_SHIFT_TIME" , 0x63
+"_A_P0_PPI_RW_PLL_STARTUP_CFG_2_reg",       "A_P0_PLL_LOCK_DET_TIME" , 0x0
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE0_CTRL_2_3_reg",       "A_P0_OA_LANE0_HSTX_SEL_CLKLB" , 0
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE1_CTRL_2_3_reg",       "A_P0_OA_LANE1_HSTX_SEL_CLKLB" , 0
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE2_CTRL_2_3_reg",       "A_P0_OA_LANE2_HSTX_SEL_CLKLB" , 0
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE3_CTRL_2_3_reg",       "A_P0_OA_LANE3_HSTX_SEL_CLKLB" , 0
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE4_CTRL_2_3_reg",       "A_P0_OA_LANE4_HSTX_SEL_CLKLB" , 0
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_CB_CTRL_2_6_reg",       "A_P0_OA_CB_HSTXLB_DCO_PON_OVR_EN" , 1
+"_A_P0_PPI_RW_COMMON_CFG_reg",       "A_P0_CFG_CLK_DIV_FACTOR" , 0x3
+"_A_P0_CORE_DIG_DLANE_0_RW_LP_0_reg",       "A_P0_LP_0_TTAGO_REG" , 6
+"_A_P0_CORE_DIG_DLANE_1_RW_LP_0_reg",       "A_P0_LP_0_TTAGO_REG" , 6
+"_A_P0_CORE_DIG_DLANE_2_RW_LP_0_reg",       "A_P0_LP_0_TTAGO_REG" , 6
+"_A_P0_CORE_DIG_DLANE_3_RW_LP_0_reg",       "A_P0_LP_0_TTAGO_REG" , 6								
+"_A_P0_CORE_DIG_DLANE_CLK_RW_LP_0_reg",       "A_P0_LP_0_TTAGO_REG" , 6 			 
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE0_CTRL_2_2_reg",       "A_P0_OA_LANE0_SEL_LANE_CFG" , 0x0
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE1_CTRL_2_2_reg",       "A_P0_OA_LANE1_SEL_LANE_CFG" , 0x0
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE2_CTRL_2_2_reg",       "A_P0_OA_LANE2_SEL_LANE_CFG" , 0x1
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE3_CTRL_2_2_reg",       "A_P0_OA_LANE3_SEL_LANE_CFG" , 0x0
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE4_CTRL_2_2_reg",       "A_P0_OA_LANE4_SEL_LANE_CFG" , 0x0
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_CB_CTRL_2_4_reg",       "A_P0_OA_CB_SEL_VCOMM_PROG" , 4 
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE0_CTRL_2_3_reg",       "A_P0_OA_LANE0_HSTX_SEL_PHASE0" , 1
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE1_CTRL_2_3_reg",       "A_P0_OA_LANE1_HSTX_SEL_PHASE0" , 1
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE2_CTRL_2_3_reg",       "A_P0_OA_LANE2_HSTX_SEL_PHASE0" , 0
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE3_CTRL_2_3_reg",       "A_P0_OA_LANE3_HSTX_SEL_PHASE0" , 1
+"_A_P0_CORE_DIG_IOCTRL_RW_AFE_LANE4_CTRL_2_3_reg",       "A_P0_OA_LANE4_HSTX_SEL_PHASE0" , 1
+"_A_P0_CORE_DIG_DLANE_0_RW_HS_TX_3_reg",       "A_P0_HS_TX_3_TLPTXOVERLAP_REG" , 0x2
+"_A_P0_CORE_DIG_DLANE_1_RW_HS_TX_3_reg",       "A_P0_HS_TX_3_TLPTXOVERLAP_REG" , 0x2
+"_A_P0_CORE_DIG_DLANE_2_RW_HS_TX_3_reg",       "A_P0_HS_TX_3_TLPTXOVERLAP_REG" , 0x2
+"_A_P0_CORE_DIG_DLANE_3_RW_HS_TX_3_reg",       "A_P0_HS_TX_3_TLPTXOVERLAP_REG" , 0x2
+"_A_P0_CORE_DIG_DLANE_CLK_RW_HS_TX_3_reg",       "A_P0_HS_TX_3_TLPTXOVERLAP_REG" , 0x2	
+"_A_P0_CORE_DIG_DLANE_0_RW_HS_TX_4_reg",       "A_P0_HS_TX_4_TLPX_DCO_REG" , 0xb
+"_A_P0_CORE_DIG_DLANE_1_RW_HS_TX_4_reg",       "A_P0_HS_TX_4_TLPX_DCO_REG" , 0xb
+"_A_P0_CORE_DIG_DLANE_2_RW_HS_TX_4_reg",       "A_P0_HS_TX_4_TLPX_DCO_REG" , 0xb
+"_A_P0_CORE_DIG_DLANE_3_RW_HS_TX_4_reg",       "A_P0_HS_TX_4_TLPX_DCO_REG" , 0xb
+"_A_P0_CORE_DIG_DLANE_CLK_RW_HS_TX_4_reg",       "A_P0_HS_TX_4_TLPX_DCO_REG" , 0xb
+"_A_P0_CORE_DIG_DLANE_CLK_RW_HS_TX_9_reg",       "A_P0_HS_TX_9_THSPRPR_DCO_REG" , 0x11 
+"_A_P0_CORE_DIG_DLANE_0_RW_HS_TX_12_reg",       "A_P0_HS_TX_12_THSEXIT_DCO_REG" , 0x17 
+"_A_P0_CORE_DIG_DLANE_1_RW_HS_TX_12_reg",       "A_P0_HS_TX_12_THSEXIT_DCO_REG" , 0x17 
+"_A_P0_CORE_DIG_DLANE_2_RW_HS_TX_12_reg",       "A_P0_HS_TX_12_THSEXIT_DCO_REG" , 0x17 
+"_A_P0_CORE_DIG_DLANE_3_RW_HS_TX_12_reg",       "A_P0_HS_TX_12_THSEXIT_DCO_REG" , 0x17 
+"_A_P0_CORE_DIG_DLANE_CLK_RW_HS_TX_12_reg",       "A_P0_HS_TX_12_THSEXIT_DCO_REG" , 0x17
+"_A_P0_CORE_DIG_DLANE_CLK_RW_HS_TX_2_reg",       "A_P0_HS_TX_2_TCLKPRE_REG" , 0x3		
+"_A_cfg_all0_cfg_all0_vc_map0" , 0xb5030201
+"_A_cfg_all0_cfg_all0_vc_map1" , 0xb5ff0004
+"_A_cfg_all0_cfg_all0_vc_map2" , 0xb5ffffff
+"_A_cfg_all0_cfg_all0_vc_map3" , 0xb5ffffff
+"_A_cfg_all0_cfg_all0_vc_map4" , 0xb5ffffff
+"_A_cfg_all0_cfg_all0_vc_map5" , 0xb5ffffff
+"_A_cfg_all0_cfg_all0_start_frame" , 0x0
+"_A_C0_PHY_RSTZ_reg" , 0x17 
+"_A_C0_MASK_N_IDI_AP_STATUS_reg" , 0x5
+"_A_C0_LPCLK_CTRL_reg" , 0x0
+"_A_cfg_top_configuration",       "A_cfg_stat_cor" , 0
+"_A_C0_LPCLK_CTRL_reg",       "A_C0_phy_txreqclkhs_con" , 0x0
