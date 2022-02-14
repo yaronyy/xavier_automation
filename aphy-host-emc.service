@@ -1,0 +1,10 @@
+[Unit] 
+Description=aphy_host emc daemon 
+Requires=va7031-aphy.service va7044-aphy.service
+After=va7031-aphy.service va7044-aphy.service
+[Service] 
+User=root 
+ExecStart=/usr/sbin/aphy_host emc
+ExecStop=/usr/bin/pkill aphy_host
+[Install] 
+WantedBy=multi-user.target 
